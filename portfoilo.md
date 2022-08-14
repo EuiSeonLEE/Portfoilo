@@ -1,10 +1,14 @@
 # 이의선 포트폴리오
->캐치 프레이즈
+> 사랑하는 사람이 사용한다는 생각으로
 
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+I was studied at Myongji University.
+
+And interested in Embedded System.
+
+Try a look at my project.😄
 
 </br>
 
