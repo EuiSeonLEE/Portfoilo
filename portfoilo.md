@@ -32,8 +32,8 @@
 ---
 
 ### 2. [Picture_Editer](https://github.com/EuiSeonLEE/Picture_Editer)
->OpenCV_4.1.1로 제작된 일괄 자르기 APP  (팀 프로젝트)  
->개발 기간: 2020.02.16 ~ 2020.02.22 
+>OpenCV_4.1.1로 제작된 일괄 자르기 APP  (개인 프로젝트)  
+>개발 기간: 2022.02.16 ~ 2022.02.22 
 >  
 >기술 스택:  
 ><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -44,13 +44,15 @@
 
 ---
 
-### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+### 3. [세 번째 프로젝트](https://github.com/EuiSeonLEE/IoT_Project_60161829)
+>반려견 배변 시스템  (팀 프로젝트)  
+>개발 기간: 2021.06.10 ~ 2021.06.12  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
+><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> 
+><img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=Espressif&logoColor=white"/></a>
+><img src="https://img.shields.io/badge/IFTTT-000000?style=flat-square&logo=IFTTT&logoColor=white"/></br>
+>**TXT-LCD** / **DeltaRule** / **EBP(Error Back Propagation)**
+>[프로젝트 상세 설명](https://github.com/EuiSeonLEE/IoT_Project_60161829) 참고
 
