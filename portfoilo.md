@@ -24,7 +24,7 @@
 >기술 스택:  
 ><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
 ><img src="https://img.shields.io/badge/MATLAB-A30701?style=flat-square&logo=MathWorks&logoColor=white"/>
-><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><\a>
+><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></br>
 >**Perseptron** / **DeltaRule** / **EBP(Error Back Propagation)**
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
