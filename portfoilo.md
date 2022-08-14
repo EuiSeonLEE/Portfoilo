@@ -17,13 +17,15 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+### 1. [Machine_Learning](https://github.com/EuiSeonLEE/Machine_Learning)
+>Artificial Neural Networks(ANN)구조 Error Back Propagation(EBP) 알고리즘 학습능률 분석 및 시각화 program (개인 프로젝트)  
+>개발 기간: 2022년 05월 18일 ~ 06월 06일
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+><img src="https://img.shields.io/badge/MATLAB-A30701?style=flat-square&logo=MathWorks&logoColor=white"/>
+><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><\a>
+>**Perseptron** / **DeltaRule** / **EBP(Error Back Propagation)**
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
