@@ -11,7 +11,7 @@
 ## :pushpin: Contact
 - 이메일: <a href="https://mail.naver.com/#%7B%22fClass%22%3A%22write%22%2C%22oParameter%22%3A%7B%22orderType%22%3A%22new%22%2C%22sMailList%22%3A%22%22%7D%7D"><img src="https://img.shields.io/badge/jncdfgh13@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://mail.naver.com/#%7B%22fClass%22%3A%22write%22%2C%22oParameter%22%3A%7B%22orderType%22%3A%22new%22%2C%22sMailList%22%3A%22%22%7D%7D/"/></a>
 <a href="https://mail.google.com"><img src="https://img.shields.io/badge/jncdfgh@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com"/></a>
-- 깃헙: <a href="https://github.com/EuiSeonLEE"><img src="https://img.shields.io/badge/GITHUB-F05032?style=flat-square&logo=GitHub&logoColor=white"/></a> 
+- 깃헙: <a href="https://github.com/EuiSeonLEE"><img src="https://img.shields.io/badge/EuiSeonLEE-000000?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 
 
 </br>
