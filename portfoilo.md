@@ -27,19 +27,20 @@
 ><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></br>
 >**Perseptron** / **DeltaRule** / **EBP(Error Back Propagation)**
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/EuiSeonLEE/Machine_Learning) 참고
 
 ---
 
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [Picture_Editer](https://github.com/EuiSeonLEE/Picture_Editer)
+>OpenCV_4.1.1로 제작된 일괄 자르기 APP  (팀 프로젝트)  
+>개발 기간: 2020.02.16 ~ 2020.02.22 
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=Opencv"/>
+><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> 
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/EuiSeonLEE/Picture_Editer) 참고
 
 ---
 
