@@ -57,7 +57,7 @@ Try a look at my project.😄
 ><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> 
 ><img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=Espressif&logoColor=white"/></a>
 ><img src="https://img.shields.io/badge/IFTTT-000000?style=flat-square&logo=IFTTT&logoColor=white"/></br>
->**TXT-LCD** / **DeltaRule** / **EBP(Error Back Propagation)**
+>**TXT-LCD** / **MQ-135** / **HC-SR04**
 >
 >[프로젝트 상세 설명](https://github.com/EuiSeonLEE/IoT_Project_60161829) 참고
 
