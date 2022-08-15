@@ -48,7 +48,7 @@ Try a look at my project.😄
 
 ---
 
-### 3. [세 번째 프로젝트](https://github.com/EuiSeonLEE/IoT_Project_60161829)
+### 3. [IoT_Project](https://github.com/EuiSeonLEE/IoT_Project_60161829)
 >반려견 배변 시스템  (팀 프로젝트)  
 >개발 기간: 2021.06.10 ~ 2021.06.12  
 >  
