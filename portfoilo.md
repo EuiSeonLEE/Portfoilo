@@ -23,7 +23,7 @@ Try a look at my project.😄
 ## :pushpin: Projects
 ### 1. [Machine_Learning](https://github.com/EuiSeonLEE/Machine_Learning)
 >Artificial Neural Networks(ANN)구조 Error Back Propagation(EBP) 알고리즘 학습능률 분석 및 시각화 program (개인 프로젝트)  
->개발 기간: 2022년 05월 18일 ~ 06월 06일
+>개발 기간: 2022년 05월 18일 ~ 2022년 06월 06일
 >  
 >기술 스택:  
 ><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
