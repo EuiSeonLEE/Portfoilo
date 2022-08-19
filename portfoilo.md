@@ -50,7 +50,7 @@ Try a look at my project.😄
 
 ### 3. [IoT_Project](https://github.com/EuiSeonLEE/IoT_Project_60161829)
 >반려견 배변 시스템  (팀 프로젝트)  
->개발 기간: 2021년 06월 10일 ~ 2021년 06월12
+>개발 기간: 2021년 06월 10일 ~ 2021년 06월12일
 >  
 >기술 스택:  
 ><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
