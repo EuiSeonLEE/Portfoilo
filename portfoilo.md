@@ -35,7 +35,21 @@ Try a look at my project.😄
 
 ---
 
-### 2. [Picture_Editer](https://github.com/EuiSeonLEE/Picture_Editer)
+### 2. [[수상작]Smart Cube](https://github.com/EuiSeonLEE/Smart-Cube)
+>회전 감지 OpenAPI Data 모니터링 인터페이스 (팀 프로젝트)  
+>개발 기간: 2022년 09월 20일 ~ 2021년 12월 08일
+>  
+>기술 스택:  
+><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
+><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> 
+><img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=Espressif&logoColor=white"/></a>
+><img src="https://img.shields.io/badge/Solidworks-005386?style=flat-square&logo=Dassault Systèmes&logoColor=white"/></br>
+>**TFT-LCD** / **MPU-6050**
+> 
+>[프로젝트 상세 설명](https://github.com/EuiSeonLEE/Smart-Cube) 참고
+
+---
+### 3. [Picture_Editer](https://github.com/EuiSeonLEE/Picture_Editer)
 >OpenCV_4.1.1로 제작된 일괄 자르기 APP  (개인 프로젝트)  
 >개발 기간: 2022년 02월 16일 ~ 2022년 02월 22일
 >  
@@ -48,7 +62,7 @@ Try a look at my project.😄
 
 ---
 
-### 3. [IoT_Project](https://github.com/EuiSeonLEE/IoT_Project_60161829)
+### 4. [IoT_Project](https://github.com/EuiSeonLEE/IoT_Project_60161829)
 >반려견 배변 시스템  (팀 프로젝트)  
 >개발 기간: 2021년 06월 10일 ~ 2021년 06월12일
 >  
