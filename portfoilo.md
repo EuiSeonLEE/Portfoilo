@@ -45,6 +45,7 @@ Try a look at my project.😄
 ><img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=Espressif&logoColor=white"/></a>
 ><img src="https://img.shields.io/badge/Solidworks-005386?style=flat-square&logo=Dassault Systèmes&logoColor=white"/></br>
 >**TFT-LCD** / **MPU-6050**
+>**I2C** / **UART**
 > 
 >[프로젝트 상세 설명](https://github.com/EuiSeonLEE/Smart-Cube) 참고
 
