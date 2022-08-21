@@ -37,7 +37,7 @@ Try a look at my project.😄
 
 ### 2. [[수상작]Smart Cube](https://github.com/EuiSeonLEE/Smart-Cube)
 >정육면체 **회전 감지** OpenAPI Data 모니터링  (팀 프로젝트)  
->개발 기간: 2022년 09월 20일 ~ 2021년 12월 08일
+>개발 기간: 2021년 09월 20일 ~ 2021년 12월 08일
 >  
 >기술 스택:  
 ><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
