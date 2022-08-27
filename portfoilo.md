@@ -36,7 +36,7 @@ Try a look at my project.😄
 ---
 
 ### 2. [[수상작]Smart Cube](https://github.com/EuiSeonLEE/Smart-Cube)
->정육면체 **회전 감지** OpenAPI Data 모니터링 시스템 (팀 프로젝트)  
+> 정육면체 **display 회전 기능이 탑재된** OpenAPI Data 모니터링 시스템
 >개발 기간: 2021년 09월 20일 ~ 2021년 12월 08일
 >  
 >기술 스택:  
